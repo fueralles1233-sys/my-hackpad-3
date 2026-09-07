@@ -1,0 +1,5 @@
+Device,Quantity,Designator
+Seeeduino Xiao RP2040,1,U1
+MX Keyboard Switches,3,SW1-SW3
+Keycaps,3,K1-K3
+1N4148 Diodes,3,D1-D3
