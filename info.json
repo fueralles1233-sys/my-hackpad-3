@@ -1,0 +1,23 @@
+{
+    "keyboard_name": "Hackpad 3-Key Macropad",
+    "url": "",
+    "maintainer": "YourGitHubUsername",
+    "width": 1,
+    "height": 3,
+    "layouts": {
+        "LAYOUT_ortho_1x3": {
+            "layout": [
+                {"label": "Key 1", "x": 0, "y": 0},
+                {"label": "Key 2", "x": 0, "y": 1},
+                {"label": "Key 3", "x": 0, "y": 2}
+            ]
+        }
+    },
+    "pins": {
+        "row_pins": ["D9", "D10", "D11"],
+        "col_pins": ["D2"]
+    },
+    "diode_direction": "COL2ROW",
+    "processor": "RP2040",
+    "bootloader": "rp2040"
+}
