@@ -1,0 +1,81 @@
+Hinweis: Verarbeite Symbol "SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB".
+Hinweis: Verarbeite Symbol "SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB".
+Hinweis: Verarbeite Symbol "U1:RF_Module:MCU_Seeed_ESP32C3".
+Hinweis: Verarbeite Symbol "SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB".
+SW2 hinzugefügt (Footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB").
+Referenzbezeichner REF** in SW2 geändert.
+Wert SW2 von SW_Cherry_MX_1.00u_PCB in SW_Push geändert.
+Symbolverknüpfung SW2 von  nach /cbdd24ac-0b3f-4d3c-8882-7e29b822a128 aktualisiert.
+SW2 Felder aktualisiert.
+Schaltplanblatt SW2 auf / aktualisiert.
+Blattname von SW2 auf "Python.File (neu).py.kicad_sch" aktualisiert.
+Netz GND hinzufügen.
+SW2 Pin 2 nach GND verbunden.
+Netz Net-(U1-PA6_A10_D10_MOSI) hinzufügen.
+SW2 Pin 1 nach Net-(U1-PA6_A10_D10_MOSI) verbunden.
+Metadaten der Einheit SW2 aktualisiert.
+SW3 hinzugefügt (Footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB").
+Referenzbezeichner REF** in SW3 geändert.
+Wert SW3 von SW_Cherry_MX_1.00u_PCB in SW_Push geändert.
+Symbolverknüpfung SW3 von  nach /6e93d4fa-3b1c-44ed-a0b7-62470238fae3 aktualisiert.
+SW3 Felder aktualisiert.
+Schaltplanblatt SW3 auf / aktualisiert.
+Blattname von SW3 auf "Python.File (neu).py.kicad_sch" aktualisiert.
+Netz Net-(U1-PA7_A8_D8_SCK) hinzufügen.
+SW3 Pin 1 nach Net-(U1-PA7_A8_D8_SCK) verbunden.
+SW3 Pin 2 nach GND verbunden.
+Metadaten der Einheit SW3 aktualisiert.
+SW4 hinzugefügt (Footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB").
+Referenzbezeichner REF** in SW4 geändert.
+Wert SW4 von SW_Cherry_MX_1.00u_PCB in SW_Push geändert.
+Symbolverknüpfung SW4 von  nach /e9cb5615-a65c-4d6c-9a44-2196b732c8b7 aktualisiert.
+SW4 Felder aktualisiert.
+Schaltplanblatt SW4 auf / aktualisiert.
+Blattname von SW4 auf "Python.File (neu).py.kicad_sch" aktualisiert.
+SW4 Pin 2 nach GND verbunden.
+Netz Net-(U1-PA5_A9_D9_MISO) hinzufügen.
+SW4 Pin 1 nach Net-(U1-PA5_A9_D9_MISO) verbunden.
+Metadaten der Einheit SW4 aktualisiert.
+U1 hinzugefügt (Footprint "RF_Module:MCU_Seeed_ESP32C3").
+Referenzbezeichner REF** in U1 geändert.
+Wert U1 von MCU_Seeed_ESP32C3 in MOUDLE-SEEEDUINO-XIAO geändert.
+Symbolverknüpfung U1 von  nach /4ac38b36-2196-4a5e-8149-38d727c83b74 aktualisiert.
+Schaltplanblatt U1 auf / aktualisiert.
+Blattname von U1 auf "Python.File (neu).py.kicad_sch" aktualisiert.
+Netz unconnected-(U1-PA10_A2_D2-Pad3) hinzufügen.
+U1 Pin 3 nach unconnected-(U1-PA10_A2_D2-Pad3) verbunden.
+Netz unconnected-(U1-PB08_A6_D6_TX-Pad7) hinzufügen.
+U1 Pin 7 nach unconnected-(U1-PB08_A6_D6_TX-Pad7) verbunden.
+U1 Pin 13 nach GND verbunden.
+Netz unconnected-(U1-PA02_A0_D0-Pad1) hinzufügen.
+U1 Pin 1 nach unconnected-(U1-PA02_A0_D0-Pad1) verbunden.
+U1 Pin 11 nach Net-(U1-PA6_A10_D10_MOSI) verbunden.
+Netz unconnected-(U1-3V3-Pad12) hinzufügen.
+U1 Pin 12 nach unconnected-(U1-3V3-Pad12) verbunden.
+Netz unconnected-(U1-PA11_A3_D3-Pad4) hinzufügen.
+U1 Pin 4 nach unconnected-(U1-PA11_A3_D3-Pad4) verbunden.
+Netz unconnected-(U1-PB09_A7_D7_RX-Pad8) hinzufügen.
+U1 Pin 8 nach unconnected-(U1-PB09_A7_D7_RX-Pad8) verbunden.
+Netz unconnected-(U1-5V-Pad14) hinzufügen.
+U1 Pin 14 nach unconnected-(U1-5V-Pad14) verbunden.
+Netz unconnected-(U1-PA8_A4_D4_SDA-Pad5) hinzufügen.
+U1 Pin 5 nach unconnected-(U1-PA8_A4_D4_SDA-Pad5) verbunden.
+Netz unconnected-(U1-PA4_A1_D1-Pad2) hinzufügen.
+U1 Pin 2 nach unconnected-(U1-PA4_A1_D1-Pad2) verbunden.
+U1 Pin 10 nach Net-(U1-PA5_A9_D9_MISO) verbunden.
+U1 Pin 9 nach Net-(U1-PA7_A8_D8_SCK) verbunden.
+Netz unconnected-(U1-PA9_A5_D5_SCL-Pad6) hinzufügen.
+U1 Pin 6 nach unconnected-(U1-PA9_A5_D5_SCL-Pad6) verbunden.
+Metadaten der Einheit U1 aktualisiert.
+Warnung: Kein Netz für Komponente U1 Pad 23 gefunden (kein Pin 23 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 22 gefunden (kein Pin 22 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 19 gefunden (kein Pin 19 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 17 gefunden (kein Pin 17 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 18 gefunden (kein Pin 18 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 21 gefunden (kein Pin 21 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 15 gefunden (kein Pin 15 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 16 gefunden (kein Pin 16 in Symbol).
+Warnung: Kein Netz für Komponente U1 Pad 20 gefunden (kein Pin 20 in Symbol).
+
+
+Hinweis: Warnungen insgesamt: 9, Fehler insgesamt: 0.
